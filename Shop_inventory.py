@@ -88,5 +88,5 @@ def menu():
             print("Invalid choice. Please try again.")
 
 # Run the menu function to start the program
-if _name_ == "_main_":
+if __name__ == "__main__":
     menu()
